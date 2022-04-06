@@ -30,6 +30,10 @@ Run server
 $ python manage.py runserver
 ```
 
+### Customer POST API example
+
+![image](https://user-images.githubusercontent.com/87740290/161893326-767abe97-b224-4e43-a74e-a5d02d2ef3f1.png)
+
 ### Coding
 
 One IDE that works with Django well is VSCode, or you can choose any IDE at your preference.
